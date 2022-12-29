@@ -1,0 +1,123 @@
+body{
+    color: #40514E;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #144272;
+}
+h1:hover {
+    color: #40514E;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #144272;
+    font-weight: bold;
+}
+h3 {
+    color: #11999E;
+}
+p {
+    color: #40514E;
+}
+.width-dec {
+    margin-bottom: 0;
+    width: 30%;
+    line-height: 2;
+    margin-bottom: 50px;
+    margin: auto;
+}
+.footer-link {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 40px;
+    color: #11999E;
+    text-decoration: none;
+    font-weight: bold;
+    font-style: normal;
+    margin: auto 30px;
+}
+.footer-link:hover {
+    color: #EAF6F6;
+}
+.footer-para{
+    color: #EAF6F6;
+    font-weight: bold;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.top-container {
+    background-color: #A8D1D1;
+    padding-top: 100px;
+    position: relative;
+}
+.skill-row {
+    width: 50%;
+    margin:100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile {
+    margin-top: 100px;
+}
+.image-1{
+    border-radius:100% ;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.image-2{
+    border-radius:100% ;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.text-under{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.bottom-container {
+    background-color: #66BFBF;
+    padding-top: 50px;
+    margin-top: 40px;
+}
+.footer-para {
+    margin-bottom: 0;
+    padding-bottom: 50px;
+}
+hr{
+    border-color: grey;
+    border-style: dotted;
+    width: 7%;
+    border-bottom: 0;
+    border-width: 6px;
+    margin: 40px auto;
+}
+.btn {
+    color: #EAF6F6;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+    background-color: #11999E;
+    padding: 7px;
+}
+.btn:hover{
+    color: #3A4F7A;
+}
+.for-padding {
+    width: 40%;
+    margin: 40px auto;
+}
